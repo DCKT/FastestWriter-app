@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/colisweb/Projects/FastestWriter-app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/colisweb/Projects/FastestWriter-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/res/xml/preferences.xml"
+    },
+    {
         "merged": "/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/res/xml/preferences.xml"
     }

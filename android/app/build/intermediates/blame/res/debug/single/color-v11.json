@@ -4,7 +4,15 @@
         "source": "/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "/Users/colisweb/Projects/FastestWriter-app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/colisweb/Projects/FastestWriter-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/colisweb/Projects/FastestWriter-app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/colisweb/Projects/FastestWriter-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

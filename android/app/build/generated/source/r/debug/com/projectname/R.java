@@ -2103,6 +2103,7 @@ containing a value of this type.
         public static final int catalyst_report_button=0x7f070029;
         public static final int catalyst_settings=0x7f07002a;
         public static final int catalyst_settings_title=0x7f07002b;
+        public static final int mobileCenterAnalytics_whenToEnableAnalytics=0x7f07002c;
         public static final int status_bar_notification_info_overflow=0x7f070013;
     }
     public static final class style {

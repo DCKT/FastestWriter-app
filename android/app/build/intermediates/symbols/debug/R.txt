@@ -692,6 +692,7 @@ int string catalyst_remotedbg_message 0x7f070028
 int string catalyst_report_button 0x7f070029
 int string catalyst_settings 0x7f07002a
 int string catalyst_settings_title 0x7f07002b
+int string mobileCenterAnalytics_whenToEnableAnalytics 0x7f07002c
 int string status_bar_notification_info_overflow 0x7f070013
 int style AlertDialog_AppCompat 0x7f0a0086
 int style AlertDialog_AppCompat_Light 0x7f0a0087
