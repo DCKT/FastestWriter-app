@@ -96,6 +96,16 @@ android {
             abiFilters "armeabi-v7a", "x86"
         }
     }
+    signingConfigs {
+        release {
+            if (project.hasProperty('FW_RELEASE_STORE_FILE')) {
+                storeFile file(FW_RELEASE_STORE_FILE)
+                storePassword FW_RELEASE_STORE_PASSWORD
+                keyAlias FW_RELEASE_KEY_ALIAS
+                keyPassword FW_RELEASE_KEY_PASSWORD
+            }
+        }
+    }
     splits {
         abi {
             reset()
@@ -108,6 +118,7 @@ android {
         release {
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+            signingConfig signingConfigs.release
         }
     }
     // applicationVariants are e.g. debug, release
@@ -126,6 +137,7 @@ android {
 }
 
 dependencies {
+    compile project(':mobile-center-crashes')
     compile project(':mobile-center-analytics')
     compile project(':react-native-linear-gradient')
     compile project(':react-native-splash-screen')

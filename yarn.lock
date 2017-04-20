@@ -3354,6 +3354,12 @@ mobile-center-analytics@^0.4.0:
   dependencies:
     mobile-center-link-scripts "0.1.6"
 
+mobile-center-crashes@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/mobile-center-crashes/-/mobile-center-crashes-0.4.0.tgz#3a91c117316929ec45c60306caa6886a131cfedf"
+  dependencies:
+    mobile-center-link-scripts "0.1.6"
+
 mobile-center-link-scripts@0.1.6:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/mobile-center-link-scripts/-/mobile-center-link-scripts-0.1.6.tgz#b84d670945a99ebe42a0b9c99ba0c81ea38e8549"
