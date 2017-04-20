@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_c2a1a7f40d7827541e5b295ce71da6320b34ef8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9abae8ee3957c498d3b93f2c51bfd722a34c6595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_0006a38d63a4435875d643b353010901e7c22cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_968539540952412d1285192949a1708484ea0771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_b07aea6fd75796bf60e2e8b0b623eeca44b08315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2917cc5a2113265ba225b854afff33862fc906ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_9a82046a9febd4ce899b5801c19833ff76602124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ff9805d5de2d7ebf4182dc89c56ed958444aebd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_1f5881c92d5cffaba0558be1cac1c2111614beed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_08a7864278fb1b8dfb79ec1b114835ca02d45480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_99e5f7ed81e650dc164b4b5bc638f45a3d273d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_5e8c6d129987e272e9f95d105feb4d8df891b169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_1a21151f703a06c7f0ad73107fd204e2fabc1728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/projectname/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1de8f75805268154da5e88bb6195760b9d8966f">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/projectname-react-native-linear-gradient-unspecified_70aa0169a7dd336e171cccfbc41ab4e33b3bd334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_9dda805db40e6d25db97a030ae4826440788a741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/projectname/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42a9c4bbafd1cb478e1a8f540fc3609c83745df8">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/projectname-react-native-splash-screen-unspecified_33776a5c951395c63a0024f3300d113759ff1e7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_cc70536c55a3d1e412487c086cbb412082a4898f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_e486192c59d643a42a73091e9bfbf0075ec35816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_3b851eab401edb88af65559bed382d70cd949cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9fdfe205ba9f2aff1caaab188f0aeb90630d819c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_ebe9073beb1ebee567145a03ae3da5a32fe0e647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b5e908967f269d6f491c6d31d373d495d8dfb5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_6d43e470a2a8af817c442b507e855ab178348e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_cff744a20a183c3ee3bde7040286b1eb5bb3626e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_9ddbae934eab8fca8296d7033de5d12cc3723be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_9bffce7c34955e0e3eb1ac6debe7fea9ab3e5968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_af78ba6bcb6b5a0d4d6e44adf7088e9e431b6b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colisweb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_17b62f86779fc0e2cca24fd1314ac9e1d3530c5f.jar" />
+    </item>
+
+</items>
