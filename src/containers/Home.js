@@ -3,6 +3,8 @@ import { StyleSheet, StatusBar, View, Text, Modal, ScrollView } from 'react-nati
 import { Button, Text as NText, Icon } from 'native-base'
 import SplashScreen from 'react-native-splash-screen'
 import LinearGradient from 'react-native-linear-gradient'
+import { upperCase } from 'lodash'
+import t from '../locales/'
 
 type Props = {
   navigation: Object
@@ -44,15 +46,15 @@ class Home extends React.Component {
         <StatusBar backgroundColor='#4c669f' barStyle='light-content' />
         <View style={styles.noBackground}>
           <View style={[styles.container, { justifyContent: 'flex-end' }]}>
-            <Text style={styles.subTitle}>Are you the</Text>
-            <Text style={styles.title}>Fastest Writer ?</Text>
+            <Text style={styles.subTitle}>{ t.areYouThe }</Text>
+            <Text style={styles.title}> ?</Text>
           </View>
           <View style={styles.container}>
             <Button block light onPress={this._runGame}>
-              <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>PLAY</NText>
+              <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>{ upperCase(t.play) }</NText>
             </Button>
             <Button block light style={{ marginTop: 10 }} onPress={this._toggleModal}>
-              <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>HIGH SCORES</NText>
+              <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>{ upperCase(t.highScores) }</NText>
             </Button>
           </View>
         </View>
@@ -62,7 +64,7 @@ class Home extends React.Component {
           visible={this.state.isModalVisible}
           onRequestClose={this._toggleModal}>
           <LinearGradient colors={['#4c669f', '#3b5998', '#192f6a']} style={[styles.linearGradient, this.state.scores.length ? { paddingTop: 85 } : {}]}>
-            <Text style={[styles.title, { marginBottom: 20 }]}>HIGH SCORES</Text>
+            <Text style={[styles.title, { marginBottom: 20 }]}>{ upperCase(t.highScores) }</Text>
 
             {
               this.state.scores.length ? (
@@ -72,7 +74,7 @@ class Home extends React.Component {
                   </View>
                 </ScrollView>
               ) : (
-                <Text style={styles.subTitle}>Oh, it seems you didn't have played yet :(</Text>
+                <Text style={styles.subTitle}>{t.noScoresYet}</Text>
               )
             }
 

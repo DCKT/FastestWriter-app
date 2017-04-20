@@ -6,5 +6,9 @@
     {
         "merged": "/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/launch_screen.png",
         "source": "/Users/colisweb/Projects/30DaysofReactNative/Project 08 - FastestWriter/android/app/src/main/res/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/dck/Work/Projects/FastestWriter-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/launch_screen.png",
+        "source": "/Users/dck/Work/Projects/FastestWriter-app/android/app/src/main/res/drawable-xxhdpi/launch_screen.png"
     }
 ]

@@ -6,13 +6,14 @@ import {
   ScrollView, Vibration, Platform, BackAndroid
 } from 'react-native'
 import LinearGradient from 'react-native-linear-gradient'
-import { last, slice } from 'lodash'
+import { last, slice, upperCase } from 'lodash'
 import { Button, Text as NText } from 'native-base'
 
 import Countdown from '../components/Countdown'
 
 import shuffle from '../utils/shuffle'
 import WORDS_LIST from '../utils/words/en'
+import t from '../locales/'
 
 const INITIAL_COUNTDOWN = 3
 const GAME_TIME = 60
@@ -88,18 +89,18 @@ class Game extends React.Component {
             ) : (
               <View style={styles.containerCenter}>
                 <View style={{ flex: 1, justifyContent: 'flex-end' }}>
-                  <Text style={styles.score}>SCORE :</Text>
+                  <Text style={styles.score}>{upperCase(t.score)} :</Text>
                   <Text style={styles.score}>
                     { score }
-                    <Text style={[styles.score, styles.scoreWord]}> words</Text>
+                    <Text style={[styles.score, styles.scoreWord]}> {t.words}</Text>
                   </Text>
                 </View>
                 <View style={{ flex: 1, justifyContent: 'center' }}>
                   <Button block light style={styles.button} onPress={this._restartGame}>
-                    <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>RESTART</NText>
+                    <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>{upperCase(t.restart)}</NText>
                   </Button>
                   <Button block light style={{ marginTop: 15 }} onPress={this._back}>
-                    <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>BACK</NText>
+                    <NText style={{ fontFamily: 'Pixel Bug', fontSize: 20 }}>{upperCase(t.back)}</NText>
                   </Button>
                 </View>
               </View>

@@ -6,5 +6,9 @@
     {
         "merged": "/Users/colisweb/Projects/FastestWriter-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/colisweb/Projects/FastestWriter-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dck/Work/Projects/FastestWriter-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/dck/Work/Projects/FastestWriter-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]
