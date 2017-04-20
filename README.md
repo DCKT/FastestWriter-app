@@ -3,6 +3,10 @@ How many words you can write in 1 minute ?
 
 ![](https://github.com/DCKT/FastestWriter-app/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true)
 
+<div>
+<img src='https://github.com/DCKT/FastestWriter-app/blob/master/screenshots/home.png?raw=true' style='width: 200px;' />
+  <img src='https://github.com/DCKT/FastestWriter-app/blob/master/screenshots/game.png?raw=true' style='width: 50%; display: inline-block;' />
+</div>
 ## react-native-starter
 Simple React Native starter kit 
 
