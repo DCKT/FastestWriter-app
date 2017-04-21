@@ -12,7 +12,7 @@ import { Button, Text as NText } from 'native-base'
 import Countdown from '../components/Countdown'
 
 import shuffle from '../utils/shuffle'
-import WORDS_LIST from '../utils/words/en'
+import getWords from '../utils/words/'
 import t from '../locales/'
 
 const INITIAL_COUNTDOWN = 3
@@ -36,7 +36,7 @@ class Game extends React.Component {
 
     this.fadeAnim = new Animated.Value(1)
     this.state = {
-      words: shuffle(WORDS_LIST).slice(0, 150),
+      words: shuffle(getWords()).slice(0, 150),
       isCountdownVisible: true,
       isGameRunning: false,
       score: 3

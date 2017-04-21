@@ -47,7 +47,7 @@ class Home extends React.Component {
         <View style={styles.noBackground}>
           <View style={[styles.container, { justifyContent: 'flex-end' }]}>
             <Text style={styles.subTitle}>{ t.areYouThe }</Text>
-            <Text style={styles.title}> ?</Text>
+            <Text style={styles.title}> {t.FastestWriter} ?</Text>
           </View>
           <View style={styles.container}>
             <Button block light onPress={this._runGame}>

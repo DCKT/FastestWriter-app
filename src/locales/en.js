@@ -1,6 +1,6 @@
 export default {
   play: 'Play',
-  highScores: 'HIGH SCORES'
+  highScores: 'HIGH SCORES',
   noScoresYet: `Oh, it seems you didn't have played yet :(`,
   areYouThe: 'Are you the',
   FastestWriter: 'Fastest Writer',
